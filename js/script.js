@@ -4,6 +4,7 @@
 var message = new Vue({
     el: '#mex',
     data: {
-      sms: 'Kobe Bryant, il più forte di tutti i tempi!'
+      sms: 'Micheal Jordan e Kobe Bryant, i più forti di tutti i tempi!',
+      img: 'Kobe-Bryant-e-Michael-Jordan-1280x720-1.jpg'
     }
   })
